@@ -8,7 +8,7 @@ The purpose of this project is to improve resilience (as the adaptability of peo
 
 *Each pattern articulates how to coordinate around data in line with how it should be content addressed, stored, and maintained in line with its purpose in a specific context (e.g. Access control, storage infrastructure, duration of storage, etc.)*
 
-Just as a software design pattern is a general, reproducible solution to a commonly occurring problem within a given context in software design, an institutional infrastructure pattern is an organisations that is reproducible.
+Just as a software design pattern is a general, reproducible solution to a commonly occurring problem within a given context in software design, an institutional infrastructure pattern is an organisation that is reproducible.
 
 Institutional infrastructure is the mechanisms that set the boundaries of social behaviours, coordination, and governance in relation to a protocol. 
 
